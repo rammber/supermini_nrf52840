@@ -2,6 +2,7 @@
 #include <SPI.h>
 #include <Ra01S.h>
 
+//test
 // ========== 频率（中国合法频段） ==========
 #define RF_FREQUENCY                486000000   // 486 MHz (470-510 MHz 合法)
 #define TX_OUTPUT_POWER             22          // dBm
